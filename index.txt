@@ -1,2 +1,4 @@
 Merhaba!
-2. satir
+ben duzelttim
+remoteMasterdan gelen guncelleme
+remoteMasterdan ikinci satir
